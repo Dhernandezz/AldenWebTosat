@@ -1,3 +1,3 @@
 function validar() {
-    alert('ok')
+    alert('ok');
 }
